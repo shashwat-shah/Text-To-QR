@@ -14,7 +14,8 @@ Tools and Technologies used in this project are as follows:
 
 1)HTML5
 
-2)CSS3
+2)CSS3 (In this project, I also used css animation.)
 
 3)JS
+
 
